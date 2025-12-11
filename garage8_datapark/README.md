@@ -5,7 +5,7 @@
 2. Данные: `dataset.xlsx`
 3. Решение: `Ivan_Orlov_solution.ipynb`
 4. Графики: `order2step.png`, `step2step.png`
-5. Мемы: `documentation.jpg`
+5. Мем: `documentation.jpg`
 6. Пост-Решение: `Ivan_Orlov_solution_HINDSIGHT.ipynb`
 
 Файлов довольно мало, так что иерархия проекта (снова) одноуровневая.
